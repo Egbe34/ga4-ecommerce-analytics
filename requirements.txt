@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+jupyter
+google-cloud-bigquery
+pandas-gbq
+pyarrow
+db-dtypes
+fastapi
+uvicorn

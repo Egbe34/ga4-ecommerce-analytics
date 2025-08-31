@@ -1,0 +1,1 @@
+-- BigQuery SQL to build the funnel fact table (we'll fill later)
