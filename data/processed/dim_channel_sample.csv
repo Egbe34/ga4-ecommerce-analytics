@@ -1,0 +1,13 @@
+channel_key,channel_group,source,medium
+1,Direct,(direct),(none)
+2,Organic Search,<Other>,organic
+3,Organic Search,google,organic
+4,Other,(data deleted),(data deleted)
+5,Other,<Other>,(data deleted)
+6,Other,<Other>,<Other>
+7,Other,<Other>,cpc
+8,Other,google,<Other>
+9,Paid Search,google,cpc
+10,Referral,(data deleted),referral
+11,Referral,<Other>,referral
+12,Referral,shop.googlemerchandisestore.com,referral
