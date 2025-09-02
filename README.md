@@ -43,7 +43,21 @@ fact_funnel_by_date_channel
   ├─ PK: (date_pk, channel_key)
   ├─ FK: date_pk → dim_date.date_pk
   └─ FK: channel_key → dim_channel.channel_key
-```
+```##  ERD / Schema
+
+The project uses a **star schema**:
+
+- **dim_date** (PK = date_pk)  
+- **dim_channel** (PK = channel_key)  
+- **fact_funnel_by_date_channel**  
+  - FK = date_pk → dim_date  
+  - FK = channel_key → dim_channel  
+  - Metrics: sessions, add_to_cart, purchases, revenue, conversion_rate  
+
+ Visual ERD:  
+
+![ERD](images/erd.png)
+
 
 ---
 
