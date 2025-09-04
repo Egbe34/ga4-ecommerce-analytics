@@ -79,7 +79,7 @@ Notebook: `notebooks/01_eda_kpis.ipynb`
 
 ## 4) Dashboards (Power BI)
 
-File: `dashboard/powerbi/GA4 Dashboard.pbix`
+File: `https://docs.google.com/presentation/d/1xsjKvD4WlJ30uXDnL1hznrVu6tIGEO-z/edit?usp=sharing&ouid=101322982193861291493&rtpof=true&sd=true`
 
 **Pages**
 1. **Channel Performance & Conversion**
