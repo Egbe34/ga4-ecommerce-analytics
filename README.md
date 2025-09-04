@@ -15,7 +15,6 @@ Use GA4 e-commerce events to improve **funnel conversion** and **channel ROI**.
 - (ML) Can we **predict purchase propensity** from simple session features?
 
 
-
 ## 2) Data & ERD
 
 **Source:** BigQuery public dataset  
@@ -87,9 +86,8 @@ File: `dashboard/powerbi/GA4 Dashboard.pbix`
 2. **E-commerce Performance Trends**
 3. **E-commerce Funnel Performance**
 
-> (Optional) Add screenshots later in `dashboard/screenshots/` and embed below.
 
----
+
 
 ## 5) Machine Learning
 
