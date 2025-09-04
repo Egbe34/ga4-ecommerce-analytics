@@ -171,7 +171,12 @@ uvicorn src.api:app --host 127.0.0.1 --port 8000 --reload
 docker build -t ga4-api .
 docker run -p 8000:8000 ga4-api
 ```
+ ## Dashboards (Power BI)
 
+File: `https://docs.google.com/presentation/d/1xsjKvD4WlJ30uXDnL1hznrVu6tIGEO-z/edit?usp=sharing&ouid=101322982193861291493&rtpof=true&sd=true`
+
+## ERM Diagram
+link(https://drive.google.com/file/d/1qeQMYcHQSh2EcWN99cKYGao7BB7HmzGF/view?usp=sharing)
 
 ## 9) Slides / Presentation
 
