@@ -2,7 +2,7 @@
 
 A portfolio-ready project that turns the public GA4 sample dataset into **business insights**, **Power BI dashboards**, a **trained ML model**, and a **deployed prediction API** that runs in **Docker** (also published on Docker Hub).
 
----
+
 
 ## 1) Business Case & Questions
 
@@ -14,7 +14,7 @@ Use GA4 e-commerce events to improve **funnel conversion** and **channel ROI**.
 - Where are the biggest **drop-offs** in the funnel?
 - (ML) Can we **predict purchase propensity** from simple session features?
 
----
+
 
 ## 2) Data & ERD
 
@@ -59,7 +59,7 @@ The project uses a **star schema**:
 ![ERD](images/erd.png)
 
 
----
+
 
 ## 3) Analysis (Python)
 
@@ -103,7 +103,7 @@ Model: **RandomForestClassifier** (purchase propensity)
 - `purchase_rf.joblib`
 - `expected_cols.json`  ← feature columns used at inference time
 
----
+
 
 ## 6) Deployed API (FastAPI) + Docker
 
@@ -168,24 +168,22 @@ pip install -r requirements.txt
 uvicorn src.api:app --host 127.0.0.1 --port 8000 --reload
 ```
 
-4) (Optional) Docker
+4)  Docker
 ```bash
 docker build -t ga4-api .
 docker run -p 8000:8000 ga4-api
 ```
 
----
 
 ## 9) Slides / Presentation
 
-- Outline: `docs/presentation_outline.md`  
-- (Optional) Export final slides to `docs/GA4_project_slides.pdf`.
+link(https://docs.google.com/presentation/d/1xsjKvD4WlJ30uXDnL1hznrVu6tIGEO-z/edit?usp=sharing&ouid=101322982193861291493&rtpof=true&sd=true)
 
----
+
 
 ## Folder Structure
 
-```
+
 ga4-ecommerce-analytics/
 ├─ sql/
 ├─ notebooks/
