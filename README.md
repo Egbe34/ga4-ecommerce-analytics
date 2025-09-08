@@ -173,14 +173,14 @@ docker run -p 8000:8000 ga4-api
 ```
  ## Dashboards (Power BI)
 
-link(https://docs.google.com/presentation/d/1xsjKvD4WlJ30uXDnL1hznrVu6tIGEO-z/edit?usp=sharing&ouid=101322982193861291493&rtpof=true&sd=true)`
+link( https://github.com/Egbe34/ga4-ecommerce-analytics/raw/refs/heads/main/dashboard/powerbi/GA4%20Dashboard.pbix)
 
 ## ERM Diagram
 link(https://drive.google.com/file/d/1qeQMYcHQSh2EcWN99cKYGao7BB7HmzGF/view?usp=sharing)
 
 ## 9) Slides / Presentation
 
-link(https://docs.google.com/presentation/d/1xsjKvD4WlJ30uXDnL1hznrVu6tIGEO-z/edit?usp=sharing&ouid=101322982193861291493&rtpof=true&sd=true)
+link( https://docs.google.com/presentation/d/1xsjKvD4WlJ30uXDnL1hznrVu6tIGEO-z/edit?usp=sharing&ouid=101322982193861291493&rtpof=true&sd=true )
 
 
 
