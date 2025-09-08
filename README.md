@@ -174,6 +174,7 @@ docker run -p 8000:8000 ga4-api
  ## Dashboards (Power BI)
 
 link( https://github.com/Egbe34/ga4-ecommerce-analytics/raw/refs/heads/main/dashboard/powerbi/GA4%20Dashboard.pbix)
+link (file:///C:/Users/Egbe/AppData/Local/Temp/Power%20BI%20Desktop/print-job-2fbcf30a-2301-4f95-9c2c-7ba2f7b00ad6/GA4%20Dashboard.pdf)
 
 ## ERM Diagram
 link(https://drive.google.com/file/d/1qeQMYcHQSh2EcWN99cKYGao7BB7HmzGF/view?usp=sharing)
