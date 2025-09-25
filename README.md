@@ -120,11 +120,4 @@ pip install -r requirements.txt
 uvicorn src.api:app --host 127.0.0.1 --port 8000 --reload
 
 ---
-**Health check**
-```bash
-curl http://127.0.0.1:8000/health
 
-**Sample prediction**
-curl -X POST http://127.0.0.1:8000/predict \
-  -H "Content-Type: application/json" \
-  -d '{"sessions":3,"add_to_cart":1,"channel_group":"Referral","day_name":"Saturday","month":12}'
