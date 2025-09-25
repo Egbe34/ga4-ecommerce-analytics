@@ -162,3 +162,10 @@ source .venv/bin/activate
 
 pip install -r requirements.txt
 
+Run notebook → generate exports & models
+
+Open notebooks/01_eda_kpis.ipynb
+
+Run all cells to create exports/* and models/*
+
+Start API
