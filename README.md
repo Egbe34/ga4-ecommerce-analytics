@@ -7,8 +7,10 @@ Turn the GA4 public sample dataset into business insights, Power BI dashboards, 
 ## Preview
 
 ![Architecture](images/architecture.png)
-![Dashboard – Channels](images/dashboard_channel.png)
-![ERD](images/erd.png)
+
+![ERM](images/erm.png)
+
+
 
 ---
 
