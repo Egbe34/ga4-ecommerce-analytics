@@ -146,4 +146,19 @@ curl http://127.0.0.1:8000/health
 - Largest funnel drop-off highlighted (Sessions → Add to Cart, or Cart → Purchase)  
 - ML flags high-propensity sessions for remarketing and CRO focus  
 
+## 9) Reproduce
+
+**Clone & setup**
+```bash
+git clone https://github.com/Egbe34/ga4-ecommerce-analytics.git
+cd ga4-ecommerce-analytics
+python -m venv .venv
+
+# Windows (PowerShell)
+.\.venv\Scripts\Activate.ps1
+
+# macOS/Linux
+source .venv/bin/activate
+
+pip install -r requirements.txt
 
