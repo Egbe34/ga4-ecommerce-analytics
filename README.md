@@ -169,3 +169,25 @@ Open notebooks/01_eda_kpis.ipynb
 Run all cells to create exports/* and models/*
 
 Start API
+```
+## 10) Folder Structure
+
+ga4-ecommerce-analytics/
+├─ sql/
+├─ notebooks/
+├─ exports/
+├─ models/
+├─ src/
+├─ dashboard/
+│ └─ powerbi/
+├─ docs/
+├─ images/
+├─ Dockerfile
+└─ README.md
+```bash
+
+**License:** MIT
+
+
+
+
