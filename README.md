@@ -174,15 +174,25 @@ Start API
 
 ga4-ecommerce-analytics/
 ├─ sql/
+
 ├─ notebooks/
+
 ├─ exports/
+
 ├─ models/
+
 ├─ src/
+
 ├─ dashboard/
+
 │ └─ powerbi/
+
 ├─ docs/
+
 ├─ images/
+
 ├─ Dockerfile
+
 └─ README.md
 ```bash
 
