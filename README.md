@@ -1,4 +1,4 @@
-# GA4 E-commerce Analytics  End-to-End (BI · ML · API · Docker)
+# GA4 E-commerce Analytics  
 
 Turn the GA4 public sample dataset into business insights, Power BI dashboards, a trained ML model, and a FastAPI prediction service running in Docker.
 
@@ -13,6 +13,17 @@ Turn the GA4 public sample dataset into business insights, Power BI dashboards, 
 ![ERM](images/erm.png)
 
 
+### Power BI Dashboards
+**1. Channel Performance & Conversion**
+![Channel Dashboard](images/dashboard_channel.png)
+
+
+**2. E-Commerce Performance Trends**
+![Trends Dashboard](images/dashboard_trends.png)
+
+
+**3. Funnel Performance**
+![Funnel Dashboard](images/dashboard_funnel.png)
 
 ---
 
@@ -81,18 +92,6 @@ Notebook: `notebooks/01_eda_kpis.ipynb`
 - `exports/funnel_summary.csv`
 
 ---
-
-## 5) Dashboard (Power BI)
-
-
-### 1. Channel Performance & Conversion Dashboard
-![Channel Dashboard](images/dashboard_channel.png)
-
-### 2. E-Commerce Performance Trends Dashboard
-![Trends Dashboard](images/dashboard_trends.png)
-
-### 3. E-Commerce Funnel Performance Dashboard
-![Funnel Dashboard](images/dashboard_funnel.png)
 
 
 - **PBIX (download):** [`dashboard/powerbi/GA4 Dashboard.pbix`](dashboard/powerbi/GA4%20Dashboard.pbix)
