@@ -84,6 +84,17 @@ Notebook: `notebooks/01_eda_kpis.ipynb`
 
 ## 5) Dashboard (Power BI)
 
+
+### 1. Channel Performance & Conversion Dashboard
+![Channel Dashboard](images/dashboard_channel.png)
+
+### 2. E-Commerce Performance Trends Dashboard
+![Trends Dashboard](images/dashboard_trends.png)
+
+### 3. E-Commerce Funnel Performance Dashboard
+![Funnel Dashboard](images/dashboard_funnel.png)
+
+
 - **PBIX (download):** [`dashboard/powerbi/GA4 Dashboard.pbix`](dashboard/powerbi/GA4%20Dashboard.pbix)
 - **Slides (overview):** [Google Slides](https://docs.google.com/presentation/d/1xsjKvD4WlJ30uXDnL1hznrVu6tIGEO-z/edit?usp=sharing)
 
