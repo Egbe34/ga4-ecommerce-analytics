@@ -128,5 +128,12 @@ curl -X POST http://127.0.0.1:8000/predict \
   -d '{"sessions":3,"add_to_cart":1,"channel_group":"Referral","day_name":"Saturday","month":12}'
 ```
 
+### Docker (local)
+
+```bash
+docker build -t ga4-api .
+docker run -p 8000:8000 ga4-api
+curl http://127.0.0.1:8000/health
+```
 
 
