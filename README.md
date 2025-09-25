@@ -156,9 +156,10 @@ curl http://127.0.0.1:8000/health
   
 ## 8) Results & Business Impact
 
-- Top channels by conversion and revenue identified  
-- Largest funnel drop-off highlighted (Sessions → Add to Cart, or Cart → Purchase)  
-- ML flags high-propensity sessions for remarketing and CRO focus  
+- Identified **top-performing channels** by conversion rate and revenue.  
+- Highlighted the **largest funnel drop-offs** (Sessions → Add to Cart, Cart → Purchase).  
+- Machine Learning flagged **high-propensity sessions** for remarketing and CRO (conversion rate optimization).  
+- Delivered a full **end-to-end pipeline** (SQL → Python → BI → ML → API → Docker) showing both technical depth and business value.
 
 ## 9) Reproduce
 
