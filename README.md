@@ -6,8 +6,10 @@ Turn the GA4 public sample dataset into business insights, Power BI dashboards, 
 
 ## Preview
 
+### Architecture
 ![Architecture](images/architecture.png)
 
+### Entity Relationship Diagram (ERD)
 ![ERM](images/erm.png)
 
 
