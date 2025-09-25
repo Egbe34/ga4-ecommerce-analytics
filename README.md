@@ -106,7 +106,6 @@ Model: **RandomForestClassifier** for purchase propensity.
 **Code:** `src/api.py`
 
 ### Run locally (virtual env)
-
 ```bash
 python -m venv .venv
 
@@ -118,11 +117,8 @@ source .venv/bin/activate
 
 pip install -r requirements.txt
 uvicorn src.api:app --host 127.0.0.1 --port 8000 --reload
+```
 
----
 
-**Health check**
-```bash
-curl http://127.0.0.1:8000/health
 
 
